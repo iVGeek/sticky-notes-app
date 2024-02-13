@@ -20,6 +20,6 @@ https://user-images.githubusercontent.com/60168324/186810746-af59ab11-7814-45a2-
 
 ## Launch
 
-Experience the convenience of the Super Sticky Notes App here: [Super Sticky Notes App](https://iVGeek.github.io/sticky-notes-app/)
+Experience the convenience of the Super Sticky Notes App here: https://ivgeek.github.io/sticky-notes-app/
 
 Elevate your organization game with JavaScript React. Let's dive in!
