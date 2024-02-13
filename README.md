@@ -14,7 +14,7 @@ Sticky notes are a lifesaver when it comes to managing our endless to-do lists a
 
 Check out the Super Sticky Notes App in action:
 
-![Super Sticky Notes App Preview](https://user-images.githubusercontent.com/60168324/186810746-af59ab11-7814-45a2-a5dc-c00e03f8a938.mov)
+https://user-images.githubusercontent.com/60168324/186810746-af59ab11-7814-45a2-a5dc-c00e03f8a938.mov
 
 ## Launch
 
