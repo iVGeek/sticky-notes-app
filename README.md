@@ -4,11 +4,12 @@ Sticky notes are a lifesaver when it comes to managing our endless to-do lists a
 
 ## Project Objectives
 
-- <span style="color:blue">Component-based UI:</span> Break down the user interface into components to construct a cohesive component tree.
-- <span style="color:red">Static UI Version:</span> Develop a static version of the UI to establish the foundational structure.
-- <span style="color:green">Data Flow:</span> Focus on the seamless flow of data within the UI, assigning data to specific components and passing props down the component tree.
-- <span style="color:orange">Interactivity:</span> Enhance user experience by adding interactive features for note creation, editing, searching, saving, and deletion.
-- <span style="color:purple">State Management:</span> Implement state to save notes and manage their lifecycle effectively.
+- <font color="blue">Component-based UI:</font> Break down the user interface into components to construct a cohesive component tree.
+- <font color="red">Static UI Version:</font> Develop a static version of the UI to establish the foundational structure.
+- <font color="green">Data Flow:</font> Focus on the seamless flow of data within the UI, assigning data to specific components and passing props down the component tree.
+- <font color="orange">Interactivity:</font> Enhance user experience by adding interactive features for note creation, editing, searching, saving, and deletion.
+- <font color="purple">State Management:</font> Implement state to save notes and manage their lifecycle effectively.
+
 
 
 ## Preview
