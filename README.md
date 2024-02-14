@@ -12,9 +12,14 @@ Sticky notes are such a handy way to keep track of our neverending to-do lists a
 
 https://user-images.githubusercontent.com/60168324/186810746-af59ab11-7814-45a2-a5dc-c00e03f8a938.mov
 
+
+
+
 ## Launch
 
 Use the Super Sticky Notes App here: https://ivgeek.github.io/sticky-notes-app/
+
+
 
 
 Introduction to JavaScript React
